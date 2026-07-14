@@ -93,17 +93,6 @@ jupyter notebook social_media_engagement_analysis.ipynb
 
 ---
 
-## 📄 Resume Bullet Points
-
-- Built an end-to-end social media analytics pipeline in Python (Pandas, Seaborn,
-  Scikit-learn), analyzing 2,500+ posts across 5 platforms to identify engagement drivers.
-- Engineered features and trained a Random Forest model to predict post engagement
-  rate (R² = 0.65), enabling data-driven content scheduling recommendations.
-- Uncovered actionable marketing insights — best posting times, top-performing formats,
-  and hashtag saturation point — through exploratory data analysis and visualization.
-
----
-
 ## 👤 Author
 
 *Add your name, LinkedIn, and portfolio link here.*
