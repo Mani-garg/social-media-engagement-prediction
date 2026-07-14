@@ -84,15 +84,3 @@ jupyter notebook social_media_engagement_analysis.ipynb
 
 ---
 
-## 🚀 Possible Extensions
-
-- Swap the synthetic dataset for real data pulled via a platform API or Kaggle.
-- Add NLP features from actual caption text (sentiment, emoji/keyword extraction).
-- Compare against XGBoost/LightGBM for better accuracy.
-- Deploy the model in a Streamlit app for live "predict my post's engagement" demos.
-
----
-
-## 👤 Author
-
-*Add your name, LinkedIn, and portfolio link here.*
